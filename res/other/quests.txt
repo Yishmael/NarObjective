@@ -1,0 +1,22 @@
+
+Legend of the Deep
+The legend says, if you catch some of the rarest fish around, the mighty moster of the Deep will resurface in the ocean.
+ND
+ND
+According to an old tale, those who succeed in catching three of the rarest fish in this world will get to face the great beast of the deep, Ylggur, if they dare to venture to the far seas. You must be very careful, as the beast can't be easily beaten, but can you outsmart it?
+1
+obtaining
+Rare fish
+fish999
+3
+
+Kimi's lost flask
+I've lost my lucky flask somewhere in the Eastern Forest as I was running from a pack of wolves a few nights ago in the Eastern Forest. Please return it to me if you find it.
+I should've been more careful...
+Thank you!
+Kimi has asked you to find his lost flask in the Eastern Forest. Beware the wolves and other beasts that luck the area. It is especially dangerous to go there at night, as it reduces your vision and increases a chance of a hostile creature encounter. Once you've found the flask, return to Kimi for a reward.
+1
+obtaining
+Kimi's lucky flask
+flask1
+1
